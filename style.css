@@ -169,9 +169,11 @@ padding: 50px 0 100px 0;
 .list-planos{
   display: flex;
   align-items: flex-end;
+  justify-content: center;
+  margin-left: 10px;
 }
 .item-plano{
-  flex:1;
+  flex:0;
   border: 2px solid #122A57;
   margin-right: 10px;
   padding: 5px;
